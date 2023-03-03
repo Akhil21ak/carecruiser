@@ -19,6 +19,13 @@ Team id here
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
+Speech recognition
+Servo.h
+Open cv,cv2
+Pyaudio
+Servo
+Serial
+
 Library Name - Version
 ## How to configure
 Instructions for setting up project
